@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryTreeExample/BinaryTreeExample.iml" filepath="$PROJECT_DIR$/BinaryTreeExample/BinaryTreeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DST.iml" filepath="$PROJECT_DIR$/DST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/Lab6.iml" filepath="$PROJECT_DIR$/lab6/Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab8/Lab8.iml" filepath="$PROJECT_DIR$/Lab8/Lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assign1/assign1.iml" filepath="$PROJECT_DIR$/assign1/assign1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assign2/assign2.iml" filepath="$PROJECT_DIR$/assign2/assign2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assign3/assign3.iml" filepath="$PROJECT_DIR$/assign3/assign3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assign4/assign4.iml" filepath="$PROJECT_DIR$/assign4/assign4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assign4Comparator/assign4Comparator.iml" filepath="$PROJECT_DIR$/assign4Comparator/assign4Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assign4Generic/assign4Generic.iml" filepath="$PROJECT_DIR$/assign4Generic/assign4Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/lab7.iml" filepath="$PROJECT_DIR$/lab7/lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

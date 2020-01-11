@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="CUSTOM_SCOPE_NAME" value="Module 'assign2'" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85fd6eb4-28b0-4a81-ab17-0c3d7ac2e73e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RNXAJ0k3kJABvFILhTF6NQxslV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BinaryTreeExample" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\DST\lab1\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\DST\lab3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lab8">
+    <configuration name="Assign2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign2" />
+      <module name="assign2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign3" />
+      <module name="mason-Assn3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign3" />
+      <module name="assign3" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/input.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7" />
+      <module name="lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab8" />
+      <module name="Lab8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assign2" />
+      <item itemvalue="Application.Assign3" />
+      <item itemvalue="Application.Assign3 (1)" />
+      <item itemvalue="Application.Lab7" />
+      <item itemvalue="Application.Lab8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab8" />
+        <item itemvalue="Application.Lab7" />
+        <item itemvalue="Application.Assign3" />
+        <item itemvalue="Application.Assign3 (1)" />
+        <item itemvalue="Application.Assign2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85fd6eb4-28b0-4a81-ab17-0c3d7ac2e73e" name="Default Changelist" comment="" />
+      <created>1567732935772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567732935772</updated>
+      <workItem from="1570390040548" duration="66000" />
+      <workItem from="1570390514193" duration="42000" />
+      <workItem from="1570727156582" duration="3885000" />
+      <workItem from="1570745199790" duration="654000" />
+      <workItem from="1570928077225" duration="17794000" />
+      <workItem from="1571009662505" duration="5716000" />
+      <workItem from="1571017577258" duration="13663000" />
+      <workItem from="1571340717007" duration="3503000" />
+      <workItem from="1571407789132" duration="5996000" />
+      <workItem from="1571769132405" duration="4245000" />
+      <workItem from="1572124623290" duration="39494000" />
+      <workItem from="1572274881172" duration="519000" />
+      <workItem from="1572356794840" duration="1331000" />
+      <workItem from="1572440605687" duration="2127000" />
+      <workItem from="1572446106512" duration="16458000" />
+      <workItem from="1572531126937" duration="1819000" />
+      <workItem from="1572628811621" duration="25000" />
+      <workItem from="1572628898613" duration="1924000" />
+      <workItem from="1572633420438" duration="11000" />
+      <workItem from="1572825200654" duration="616000" />
+      <workItem from="1572975936095" duration="598000" />
+      <workItem from="1573139940121" duration="2432000" />
+      <workItem from="1573223877876" duration="210000" />
+      <workItem from="1573224130982" duration="6809000" />
+      <workItem from="1573250054242" duration="4515000" />
+      <workItem from="1573255585149" duration="5062000" />
+      <workItem from="1573261586040" duration="7000" />
+      <workItem from="1573658294914" duration="14118000" />
+      <workItem from="1573678434065" duration="4611000" />
+      <workItem from="1573752443823" duration="1502000" />
+      <workItem from="1573760842395" duration="971000" />
+      <workItem from="1573835148784" duration="4720000" />
+      <workItem from="1574045290873" duration="648000" />
+      <workItem from="1574131431637" duration="395000" />
+      <workItem from="1574195710388" duration="2265000" />
+      <workItem from="1574257759490" duration="265000" />
+      <workItem from="1574258458407" duration="13000" />
+      <workItem from="1574349999839" duration="597000" />
+      <workItem from="1574351089072" duration="539000" />
+      <workItem from="1574361326623" duration="9000" />
+      <workItem from="1574437394963" duration="3868000" />
+      <workItem from="1574532662327" duration="8103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mason-Assn3/src/InventoryItem.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab8/src/Lab8.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DST$Lab8.ic" NAME="Lab8 Coverage Results" MODIFIED="1574533142158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

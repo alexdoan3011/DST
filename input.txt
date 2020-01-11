@@ -1,0 +1,19 @@
+1
+f
+100
+apple
+100
+120
+30
+2019-11-15
+apple farm
+2
+1
+v
+101
+cabbage
+10
+12
+50
+2019-11-14
+cabbage farm
